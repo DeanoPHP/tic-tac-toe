@@ -9,13 +9,6 @@ body {
     width: 100%;
 }
 
-.container {
-    width: 600px;
-    height: 600px;
-    margin: 40px auto;
-    background-color: royalblue;
-}
-
 h1 {
     color: rgb(22, 230, 84);
     text-align: center;
@@ -23,7 +16,7 @@ h1 {
 }
 
 .tic-grid {
-    width: 90%;
+    width: 98%;
     height: 500px;
     margin: 0 auto;
     display: grid;
